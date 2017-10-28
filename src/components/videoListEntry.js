@@ -7,10 +7,6 @@ angular.module('video-player')
     index: '<'
   },
   
-  controller: function() {
-    console.log(this);
-  },
-  
   templateUrl: 'src/templates/videoListEntry.html' 
   
 });
